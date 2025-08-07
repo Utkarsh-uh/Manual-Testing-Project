@@ -5,6 +5,7 @@ This repository contains manual testing documentation for the [DemoBlaze E-Comme
 ---
 
 ## 📂 Project Structure
+~~~ bash
 Manual-Testing-Project/
 │
 ├── TestCases_DemoBlaze.xlsx # Detailed test cases (positive & negative)
@@ -12,7 +13,7 @@ Manual-Testing-Project/
 ├── TestPlan_DemoBlaze.docx # Comprehensive test plan
 ├── TestSummary_DemoBlaze.docx # Final summary report after execution
 ├── README.md # Project documentation
-
+~~~
 
 ---
 
