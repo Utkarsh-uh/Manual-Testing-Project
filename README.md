@@ -9,7 +9,7 @@ This repository contains manual testing documentation for the [DemoBlaze E-Comme
 Manual-Testing-Project/
 │
 ├── TestCases_DemoBlaze.xlsx # Detailed test cases (positive & negative)
-├── BugReport_DemoBlaze.xlsx # Bug report with sample bug IDs
+├── BugReport_DemoBlaze.xlsx # Bug report with bug IDs
 ├── TestPlan_DemoBlaze.docx # Comprehensive test plan
 ├── TestSummary_DemoBlaze.docx # Final summary report after execution
 ├── README.md # Project documentation
