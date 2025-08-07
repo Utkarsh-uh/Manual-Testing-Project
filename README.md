@@ -50,6 +50,48 @@ To perform functional and UI-based manual testing on the DemoBlaze website, vali
 
 ---
 
+## 🧪 How to Test
+
+This section outlines the steps to execute manual testing for the **DemoBlaze** e-commerce website using the documents provided in this repository.
+
+### 🔧 Prerequisites
+
+Before starting testing, ensure the following:
+- You have access to:
+  - [DemoBlaze Website](https://www.demoblaze.com/)
+  - A modern browser (Chrome, Firefox, Edge)
+  - Excel or Google Sheets (for test cases)
+  - Word or Google Docs (for documentation)
+
+### 📁 Files Required
+
+| File                        | Purpose                         |
+|----------------------------|----------------------------------|
+| `TestPlan_DemoBlaze.docx`  | Understand testing strategy      |
+| `TestCases_DemoBlaze.xlsx` | Execute test steps & record results |
+| `BugReport_DemoBlaze.xlsx` | Log any failed cases or issues   |
+| `TestSummary_DemoBlaze.docx` | Final summary of testing session |
+
+### 🧭 Testing Steps
+
+1. **Read the Test Plan**
+   - Understand scope, features, approach, responsibilities
+2. **Open the Website**
+   - Go to [DemoBlaze](https://www.demoblaze.com/)
+3. **Execute Test Cases**
+   - Open `TestCases_DemoBlaze.xlsx`
+   - Perform each step manually
+   - Compare actual result vs expected
+   - Mark each case as `Pass` or `Fail`
+4. **Log Bugs**
+   - Open `BugReport_DemoBlaze.xlsx`
+   - Note issues with bug ID, description, severity, etc.
+5. **Fill Test Summary**
+   - After test execution, update `TestSummary_DemoBlaze.docx`
+   - Include total, pass/fail stats, and overall result
+
+---
+
 ## 👨‍💻 Author
 
 **Utkarsh Haste**  
